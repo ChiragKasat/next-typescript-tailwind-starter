@@ -1,11 +1,11 @@
 This is a [Next.js] starter template with typescript and tailwindcss configured. Use the following command for using this starter:
 
 ```bash
-npx create-next-app nextjs-blog --use-npm --example "https://github.com/ChiragKasat/next-typescript-tailwind-starter/tree/master"
+npx create-next-app <repo-name> --use-npm --example "https://github.com/ChiragKasat/next-typescript-tailwind-starter/tree/master"
 
 #or 
 
-yarn create next-app --example "https://github.com/ChiragKasat/next-typescript-tailwind-s
+yarn create next-app <repo-name> --example "https://github.com/ChiragKasat/next-typescript-tailwind-s
 ```
 
 ## Getting Started
